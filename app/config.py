@@ -29,8 +29,8 @@ class Developmentconfig(Baseconfig):
 class Testconfig(Baseconfig):
     """For testing the application"""
     DEBUG = True
-    #SQLALCHEMY_DATABASE_URI = "postgresql://postgres:postgres@localhost/test_libapp"
-    SQLALCHEMY_DATABASE_URI = "mysql://root:collo0@localhost/test_catalog"
+    SQLALCHEMY_DATABASE_URI = "postgresql://postgres:postgres@localhost/test_libapp"
+    #SQLALCHEMY_DATABASE_URI = "mysql://root:collo0@localhost/test_catalog"
     SECRET_KEY = os.urandom(10)
 
 
