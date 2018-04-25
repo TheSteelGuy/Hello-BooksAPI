@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI.svg?branch=develop)](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI)
-[![Coverage Status](https://coveralls.io/repos/github/TheSteelGuy/Hello-BooksAPI/badge.svg?branch=develop)](https://coveralls.io/github/TheSteelGuy/Hello-BooksAPI?branch=develop)
-[![Maintainability](https://api.codeclimate.com/v1/badges/61e00292243a644ea3b1/maintainability)](https://codeclimate.com/github/TheSteelGuy/Hello-BooksAPI/maintainability)
+[![Build Status](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI.svg?branch=master)](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI)
+[![Coverage Status](https://coveralls.io/repos/github/TheSteelGuy/Hello-BooksAPI/badge.svg?branch=master)](https://coveralls.io/github/TheSteelGuy/Hello-BooksAPI?branch=master)
 
 # Hello-Books app
 
