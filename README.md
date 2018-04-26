@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI.svg?branch=master)](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI)
-[![Coverage Status](https://coveralls.io/repos/github/TheSteelGuy/Hello-BooksAPI/badge.svg?branch=master)](https://coveralls.io/github/TheSteelGuy/Hello-BooksAPI?branch=master)
+
 
 # Hello-Books app
 
