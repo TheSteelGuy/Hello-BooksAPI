@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a8f20a2516a4d7e9927def9faf306f5)](https://app.codacy.com/app/TheSteelGuy/Hello-BooksAPI?utm_source=github.com&utm_medium=referral&utm_content=TheSteelGuy/Hello-BooksAPI&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI.svg?branch=master)](https://travis-ci.org/TheSteelGuy/Hello-BooksAPI)
 
 
